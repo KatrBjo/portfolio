@@ -1,12 +1,10 @@
 # portfolio
 
-Sure! Here's the updated README file with the specific details about your education and projects:
-
 ---
 
 # Katrine's Portfolio
 
-Welcome to my personal portfolio! This repository showcases a collection of my projects, skills, and experiences. Feel free to explore and reach out if you have any questions or would like to collaborate.
+Welcome to my personal portfolio! This repository showcases a collection of my projects, skills, and experiences.
 
 ## Table of Contents
 
@@ -26,20 +24,16 @@ Here are some of the projects I've worked on:
 
 1. **Cross Course Website - E-commerce**
    - **Description:** An e-commerce website project developed as part of my cross-course assignment. Built with HTML, CSS, and JavaScript to create a fully functional online store.
-   - **Repository:** [Link to the project repository](#)
-   - **Demo:** [Link to live demo or project showcase](#)
+
 
 2. **Semester Project 1 - Museum**
    - **Description:** A museum website developed for my first semester project. Focused on creating a responsive and visually appealing design using HTML and CSS.
-   - **Repository:** [Link to the project repository](#)
-   - **Demo:** [Link to live demo or project showcase](#)
+
 
 3. **Project Exam 1 - Blog Application**
    - **Description:** A blog application developed for my first project exam. Implemented features for creating, reading, updating, and deleting blog posts using HTML, CSS, and JavaScript.
-   - **Repository:** [Link to the project repository](#)
-   - **Demo:** [Link to live demo or project showcase](#)
 
-*Add more projects as needed.*
+
 
 ## Skills
 
