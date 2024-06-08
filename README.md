@@ -12,7 +12,6 @@ Welcome to my personal portfolio! This repository showcases a collection of my p
 - [Projects](#projects)
 - [Skills](#skills)
 - [Education](#education)
-- [Contact](#contact)
 
 ## About Me
 
