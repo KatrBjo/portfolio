@@ -105,7 +105,7 @@
   }
   
   .intro p{
-      font-size: 25px;
+      font-size: 20px;
       font-weight: 400;
       margin-bottom: 30px;
   }
@@ -172,8 +172,8 @@
       flex-direction: column;
       justify-content: space-between;
       background-color: white;
-      box-shadow: 2px 2px rgb(0, 0, 0);
-      border: 2px solid rgb(0, 0, 0);
+      box-shadow: -5px 5px #76cfd7d4;
+      border: 2px solid #000000;
       max-width: 600px;
       align-items: center;
   }
@@ -312,7 +312,7 @@
       }
   
       .intro{
-        top: 50%;
+        top: 40%;
         left: 50%;
         transform: translate(-50%, -50%);
         z-index: 2;
